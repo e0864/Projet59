@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+    
+   background-color: orange;
+}
+img{
+    
+  width: 50;
+      height:50;
+  
+    
+}
+img{
+    width: 50;
+    height: 50;
+    
+}
+.menu{
+    list-style: none;
+    float: right;
+    cursor: pointer;
+    
+}
